@@ -1,0 +1,44 @@
+LGsus1824
+
+GRUPOS DE COMANDOS SQL:
+
+1. DDL (Data Definition Language)
+	Crear y modificar la estructura de una base de datos.
+
+	-Create
+	-Alter
+	-Drop
+	-Truncate
+
+2. DML (Data Manipulation Language).
+	Seleccionar,insertar, borrar, etc, registros en una base de datos.
+
+	-Select
+	-Insert
+	-Update
+	-Delete
+
+3. DCL (Data Control Language).
+	Se utilizan para proporcionar seguridad en la informacion.
+
+	-Grant
+	-Revoke
+
+4. TCL (Transaction Control Language).
+	Se utilizan para la gestion en los cambios de los datos.
+
+	-Commit
+	-Rollback
+	-Savepoint
+
+CLAUSULAS:
+
+	-FROM
+	-WHERE
+	-GROUP BY
+	-HAVING
+	-ORDER BY
+
+ESTRUCTURA DE COMANDO SQL (No es una estructura definida; minimo un comando y una clausula).
+
+COMANDO + CLAUSULA + OPERADOR + FUNCIONES
